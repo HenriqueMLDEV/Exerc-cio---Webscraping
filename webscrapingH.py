@@ -1,7 +1,5 @@
-'''
-1 - Criar uma variável de ambiente
-2 - Instalar o requests e o BeautifulSoup4
-'''
+#Código fornecido por Lisa Tagliaferri - Developer and author at DigitalOcean em https://www.digitalocean.com/community/tutorials/como-fazer-scraping-em-paginas-web-com-beautiful-soup-and-python-3-pt
+
 import requests
 import csv
 from bs4 import BeautifulSoup
